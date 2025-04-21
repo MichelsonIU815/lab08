@@ -1,0 +1,22 @@
+Start testing: Apr 21 13:28 MSK
+----------------------------------------------------------
+1/1 Testing: check
+1/1 Test: check
+Command: "/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/check"
+Directory: /home/michel/MichelsonIU815/workspace/projects/lab07/_builds
+"check" start time: Apr 21 13:28 MSK
+Output:
+----------------------------------------------------------
+Running main() from /home/michel/hunter/_Base/xxxxxxx/d43c700/37d6cfd/Build/GTest/Source/googletest/src/gtest_main.cc
+[==========] Running 0 tests from 0 test suites.
+[==========] 0 tests from 0 test suites ran. (0 ms total)
+[  PASSED  ] 0 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"check" end time: Apr 21 13:28 MSK
+"check" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 21 13:28 MSK

@@ -1,0 +1,10 @@
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/print.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/check.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/demo.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/test.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/edit_cache.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/rebuild_cache.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/list_install_components.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/install.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/install/local.dir
+/home/michel/MichelsonIU815/workspace/projects/lab07/_builds/CMakeFiles/install/strip.dir
